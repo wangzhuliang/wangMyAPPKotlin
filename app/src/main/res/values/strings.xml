@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wangMyAPPKotlin</string>
+
+    <string name="image_transition">image_transition</string>
+
+    <string name="start_cycler">Start Another CyclerFragment</string>
+    <string name="start_with_pop">Start Another CyclerFragment, and finish self</string>
+</resources>
