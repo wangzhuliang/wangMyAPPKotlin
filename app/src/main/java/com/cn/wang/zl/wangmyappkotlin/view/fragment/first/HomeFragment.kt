@@ -10,7 +10,7 @@ import me.yokeyword.eventbusactivityscope.EventBusActivityScope
 
 /**
  * Created by lcling on 2018/3/28.
- * homefragment
+ * homefragment wang
  */
 open class HomeFragment : BaseMainFragment(){
 
